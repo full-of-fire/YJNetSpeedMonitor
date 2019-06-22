@@ -1,0 +1,16 @@
+PODS:
+  - YJNetSpeedMonitor (0.1.0)
+
+DEPENDENCIES:
+  - YJNetSpeedMonitor (from `../`)
+
+EXTERNAL SOURCES:
+  YJNetSpeedMonitor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJNetSpeedMonitor: decf6143416f07ec4c477706f60cc38a771a1a28
+
+PODFILE CHECKSUM: 819bff40c60cd60e7b40bb18d09feeca07fc107d
+
+COCOAPODS: 1.6.1
